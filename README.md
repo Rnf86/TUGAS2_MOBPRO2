@@ -13,7 +13,7 @@ yang dimana pengembangannya, sebagai berikut:
 (Harus nya ada halanan edit profile = namun masih ada error yang belum bisa saya solving)
 
 Note :
-Tugas ini di kerjakan sangat mendadak di karenakan kelompok-nya(tidak bisa disebut) slowrespon
+Tugas ini di kerjakan oleh saya sendiri tanpa kelompok aktif
 
 
 # TUGAS2_MOBPRO2
