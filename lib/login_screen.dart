@@ -4,6 +4,8 @@ import 'package:tugaspm2_rizqiana/home_screen.dart';
 import 'package:tugaspm2_rizqiana/styles.dart';
 import 'package:tugaspm2_rizqiana/widget/custom_textfield.dart';
 
+import 'main_screen.dart';
+
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
 
@@ -66,7 +68,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   onPressed: () {// Navigate to the second page
                     Navigator.pushAndRemoveUntil(
                       context,
-                      MaterialPageRoute(builder: (context) => HomeScreen(email: emailController.text,)),
+                      MaterialPageRoute(builder: (context) => MainScreen(email: emailController.text,)),
                           (Route<dynamic> route) => false,
                     );},
                   child: Text(

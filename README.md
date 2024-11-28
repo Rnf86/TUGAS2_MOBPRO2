@@ -1,23 +1,19 @@
 # tugaspm2_rizqiana
 
-A new Flutter project.
+Pengembangan Aplikasi Flutter project 
+untuk memenuhi nilai UTS semester 5  
 Name : Rizqiyana Nurhafizh
 NIM : 22552011099
-Class : TIF RM 22 
+Class : TIF RM 22
+
+Ini adalah kelanjutan project sebelumnya pada tugas pertemuan sebelum uts,
+yang dimana pengembangannya, sebagai berikut: 
+*fixing bug di halaman home = email yang login harus nya bisa di tampilkan di home.
+*Menambahkan screen detai pada menu News yang mana saat list nya di klik akan menampilkan Description News.
+(Harus nya ada halanan edit profile = namun masih ada error yang belum bisa saya solving)
+
+Note :
+Tugas ini di kerjakan sangat mendadak di karenakan kelompok-nya(tidak bisa disebut) slowrespon
 
 
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # TUGAS2_MOBPRO2

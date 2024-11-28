@@ -36,18 +36,18 @@ class _HomeScreenState extends State<HomeScreen> {
               Image.asset(R.ASSETS_IMAGES_HOME_IMG_PNG),
               const SizedBox(height: 24.0),
               Text("Welcome, ${widget.email}"),
-              const SizedBox(height: 50.0),
-              ElevatedButton(
-                onPressed: () {// Navigate to the second page
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => ProfileScreen(email: widget.email,)),
-                  );},
-                child: Text(
-                  'Kunjungi Profile',
-                  style: TextStyles.title.copyWith(fontSize: 20.0),
-                ),
-              ),
+              //const SizedBox(height: 50.0),
+              // ElevatedButton(
+              //   onPressed: () {// Navigate to the second page
+              //     Navigator.push(
+              //       context,
+              //       MaterialPageRoute(builder: (context) => ProfileScreen(email: widget.email,)),
+              //     );},
+              //   child: Text(
+              //     'Kunjungi Profile',
+              //     style: TextStyles.title.copyWith(fontSize: 20.0),
+              //   ),
+              // ),
 
             ],
 
